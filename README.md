@@ -1,8 +1,18 @@
-# React + Vite
+# Shoe E-commerce Website 👟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend e-commerce website built with React, Vite, Tailwind CSS, and JSON-Server.
 
-Currently, two official plugins are available:
+## Features
+✅ User Registration & Login  
+✅ Browse Products & Add to Cart  
+✅ Checkout & Payment  
+✅ Orders Management  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+[View Here](your-live-demo-link)
+
+## 🛠 Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- JSON-Server
